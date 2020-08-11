@@ -2,6 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/lfernandez79/amplifyapp) ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Noteapp&logo=graphQl&logoColor=green&style=plastic&up_color=yellowgreen&up_message=active&url=https%3A%2F%2Fmaster.dy5llcbnmbl47.amplifyapp.com%2F) ![ReactJS made](https://img.shields.io/badge/reactJS-blue?logo=react)
 
+This note app it was created by following AWS tutorial.  I got my hands wet using Amplify lavereging my existing front-end skillset to add cloud functionality into  application such as auth, data, analytics, push notifications, and more.
+
 # Give it a try! [Here](https://master.dy5llcbnmbl47.amplifyapp.com/)
 
     - Create an account
@@ -9,7 +11,6 @@
     - Add a note and image
     - Delete an account by click on delete button
 
-This note app it was created by following AWS tutorial.  I got my hands wet using Amplify lavereging my existing front-end skillset to add cloud functionality into  application such as auth, data, analytics, push notifications, and more.
 
 ### What I learn: 
       - AWS Amplify
