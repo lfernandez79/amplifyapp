@@ -1,68 +1,28 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Note app 
 
-## Available Scripts
+![GitHub repo size](https://img.shields.io/github/repo-size/lfernandez79/amplifyapp) ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Noteapp&logo=graphQl&logoColor=green&style=plastic&up_color=yellowgreen&up_message=active&url=https%3A%2F%2Fmaster.dy5llcbnmbl47.amplifyapp.com%2F) ![ReactJS made](https://img.shields.io/badge/reactJS-blue?logo=react)
 
-In the project directory, you can run:
+# Give it a try! [Here](https://master.dy5llcbnmbl47.amplifyapp.com/)
 
-### `npm start`
+    - Create an account
+    - Login
+    - Add a note and image
+    - Delete an account by click on delete button
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This note app it was created by following AWS tutorial.  I got my hands wet using Amplify lavereging my existing front-end skillset to add cloud functionality into  application such as auth, data, analytics, push notifications, and more.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### What I learn: 
+      - AWS Amplify
+      - Amazon Cognito for authentication
+      - GraphQL API that leverages AWS AppSync
+      - Amazon DynamoDB
+ 
+ I have deployed a web application using AWS Amplify! I have added authentication to note app allowing users to sign up, sign in, and manage their account. The note app also has a scalable GraphQL API configured with an Amazon DynamoDB database allowing users to create and delete notes. I have also added file storage using Amazon S3 allowing users to upload images and view them in their app.
 
-### `npm test`
+#### This learning tutorial just touch the surface of each technoligy; there is way more to learn but I found this demo well documented and easy to understand, if you would like to give it a try, go for it! 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Build a react app with AWS amplify](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
 
-### `npm run build`
+![ScreenShotAWS](./public/amplifydeploy.png)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
