@@ -9,6 +9,8 @@ Amplify.configure(config);
 
 ReactDOM.render(
   <React.StrictMode>
+    <h1>React Notes app, using amplify from AWS</h1>
+    <h2>This is just the firts attempt to use mobile AWS </h2>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
