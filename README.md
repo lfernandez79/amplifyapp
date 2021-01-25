@@ -4,7 +4,7 @@
 
 This note app it was created by following AWS tutorial.  I got my hands wet using Amplify lavereging my existing front-end skillset to add cloud functionality into  application such as auth, data, analytics, push notifications, and more.
 
-# Give it a try! [Here](https://master.dy5llcbnmbl47.amplifyapp.com/)
+# Give it a try! [Here](https://feature-qa.dy5llcbnmbl47.amplifyapp.com/)
 
     - Create an account
     - Login
