@@ -1,4 +1,6 @@
-language: javascript
+language: node_js
+node_js:
+  - node
 
 before_script:
     - "curl -H 'Cache-Control: no-cache' https://raw.githubusercontent.com/fossas/fossa-cli/master/install-latest.sh | sudo bash"
