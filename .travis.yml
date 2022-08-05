@@ -9,5 +9,5 @@ script:
   # your build scripts before running `fossa`
   # NOTE: before running `fossa` make sure to save your FOSSA_API_KEY in your
   # environment variable in Travis see below.
-  - export FOSSA_API_KEY=3067e13ad55fd2f97b22bc73618a6f60
+  - export FOSSA_API_KEY=ae75ca1e56a878c630a5b24fbcbf3e89
   - fossa analyze
